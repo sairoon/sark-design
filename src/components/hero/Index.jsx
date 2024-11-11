@@ -18,7 +18,7 @@ const Hero = () => {
             that helps you achieve business goals together. Using software makes
             it easier to create.
           </p>
-          <button className="bg-[#2B59FF] text-white px-7 py-3 font-semibold text-base rounded-[5px] mt-8 flex items-center leading-7 tracking-normal">
+          <button className="bg-[#2B59FF] text-white px-8 py-4 font-semibold text-base rounded-[5px] mt-8 flex items-center leading-7 tracking-normal">
             <span className="mr-2">Get 14 days free trial</span>
             <ButtonArrowIcon />
           </button>
@@ -33,7 +33,7 @@ const Hero = () => {
               <StarIcon />
               <StarIcon />
             </div>
-            <div className="text-[#334155] ml-2 font-primaryMedium text-base">
+            <div className="text-[#576881] ml-2 font-primaryMedium text-base">
               4900+ 5 Stars
             </div>
           </div>
