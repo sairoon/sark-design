@@ -2,6 +2,7 @@ import React from "react";
 import Hero from "../components/hero/Index";
 import Banner from "../components/banner/Index";
 import PostCraft from "../components/Postcraft/Index";
+import Testimonial from "../components/testimonial/Index";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
         <Banner />
       </div>
         <PostCraft />
+        <Testimonial />
     </div>
   );
 };
