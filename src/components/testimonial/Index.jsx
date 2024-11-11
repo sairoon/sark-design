@@ -8,7 +8,6 @@ const Testimonial = () => {
         Customers are loving our UI Kit
       </h1>
       <div className="grid grid-cols-4 gap-6">
-
         <div className="bg-white self-start rounded-[10px] px-[15px] py-5 border border-[#EAE9F2] hover:shadow-lg transition ease-linear duration-150 relative">
           <div className="flex flex-row items-start">
             <img
@@ -33,7 +32,6 @@ const Testimonial = () => {
             <TwitterIcon />
           </div>
         </div>
-        
         <div className="bg-white self-start rounded-[10px] px-[15px] py-5 border border-[#EAE9F2] hover:shadow-lg transition ease-linear duration-150 relative">
           <div className="flex flex-row items-start">
             <img
@@ -43,7 +41,7 @@ const Testimonial = () => {
             />
             <div className="flex flex-col ml-4">
               <h4 className="text-[#0F172A] font-primaryBold text-base">
-              Kristin Watson
+                Kristin Watson
               </h4>
               <h5 className="text-[#0F172A] font-primaryRegular select-none text-sm">
                 CEO at Creativex
@@ -51,7 +49,8 @@ const Testimonial = () => {
             </div>
           </div>
           <p className="text-[#0F172A] font-primaryRegular select-none text-base mt-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim mauris sagittis, sed tempus.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
+            mauris sagittis, sed tempus.
           </p>
           <div className="absolute top-5 right-4">
             <TwitterIcon />
@@ -66,7 +65,7 @@ const Testimonial = () => {
             />
             <div className="flex flex-col ml-4">
               <h4 className="text-[#0F172A] font-primaryBold text-base">
-              Courtney Henry
+                Courtney Henry
               </h4>
               <h5 className="text-[#0F172A] font-primaryRegular select-none text-sm">
                 CEO at Creativex
@@ -74,7 +73,8 @@ const Testimonial = () => {
             </div>
           </div>
           <p className="text-[#0F172A] font-primaryRegular select-none text-base mt-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim mauris sagittis, sed tempus.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
+            mauris sagittis, sed tempus.
           </p>
           <div className="absolute top-5 right-4">
             <TwitterIcon />
@@ -89,7 +89,7 @@ const Testimonial = () => {
             />
             <div className="flex flex-col ml-4">
               <h4 className="text-[#0F172A] font-primaryBold text-base">
-              Jane Cooper
+                Jane Cooper
               </h4>
               <h5 className="text-[#0F172A] font-primaryRegular select-none text-sm">
                 CEO at Creativex
@@ -97,7 +97,8 @@ const Testimonial = () => {
             </div>
           </div>
           <p className="text-[#0F172A] font-primaryRegular select-none text-base mt-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim mauris sagittis, sed tempus.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
+            mauris sagittis, sed tempus.
           </p>
           <div className="absolute top-5 right-4">
             <TwitterIcon />
@@ -112,7 +113,7 @@ const Testimonial = () => {
             />
             <div className="flex flex-col ml-4">
               <h4 className="text-[#0F172A] font-primaryBold text-base">
-              Brooklyn Simmons
+                Brooklyn Simmons
               </h4>
               <h5 className="text-[#0F172A] font-primaryRegular select-none text-sm">
                 CEO at Creativex
@@ -120,7 +121,8 @@ const Testimonial = () => {
             </div>
           </div>
           <p className="text-[#0F172A] font-primaryRegular select-none text-base mt-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim mauris sagittis, sed tempus.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
+            mauris sagittis, sed tempus.
           </p>
           <div className="absolute top-5 right-4">
             <TwitterIcon />
@@ -135,7 +137,7 @@ const Testimonial = () => {
             />
             <div className="flex flex-col ml-4">
               <h4 className="text-[#0F172A] font-primaryBold text-base">
-              Dianne Russell
+                Dianne Russell
               </h4>
               <h5 className="text-[#0F172A] font-primaryRegular select-none text-sm">
                 CEO at Creativex
@@ -143,7 +145,8 @@ const Testimonial = () => {
             </div>
           </div>
           <p className="text-[#0F172A] font-primaryRegular select-none text-base mt-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim mauris sagittis, sed tempus.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
+            mauris sagittis, sed tempus.
           </p>
           <div className="absolute top-5 right-4">
             <TwitterIcon />
@@ -158,7 +161,7 @@ const Testimonial = () => {
             />
             <div className="flex flex-col ml-4">
               <h4 className="text-[#0F172A] font-primaryBold text-base">
-              Arlene McCoy
+                Arlene McCoy
               </h4>
               <h5 className="text-[#0F172A] font-primaryRegular select-none text-sm">
                 CEO at Creativex
@@ -166,7 +169,8 @@ const Testimonial = () => {
             </div>
           </div>
           <p className="text-[#0F172A] font-primaryRegular select-none text-base mt-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim mauris sagittis, sed tempus.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
+            mauris sagittis, sed tempus.
           </p>
           <div className="absolute top-5 right-4">
             <TwitterIcon />
@@ -181,7 +185,7 @@ const Testimonial = () => {
             />
             <div className="flex flex-col ml-4">
               <h4 className="text-[#0F172A] font-primaryBold text-base">
-              Savannah Nguyen
+                Savannah Nguyen
               </h4>
               <h5 className="text-[#0F172A] font-primaryRegular select-none text-sm">
                 CEO at Creativex
@@ -189,16 +193,14 @@ const Testimonial = () => {
             </div>
           </div>
           <p className="text-[#0F172A] font-primaryRegular select-none text-base mt-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim mauris sagittis, sed tempus.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
+            mauris sagittis, sed tempus.
           </p>
           <div className="absolute top-5 right-4">
             <TwitterIcon />
           </div>
         </div>
-             
-
       </div>
-
       <div className="flex flex-col items-center justify-center mt-20">
         <button className="bg-[#2B59FF] text-white px-7 py-3 font-semibold text-base rounded-[5px] mt-8 flex items-center leading-7 tracking-normal">
           View all customer stories
