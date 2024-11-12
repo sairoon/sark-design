@@ -6,6 +6,7 @@ import Testimonial from "../components/testimonial/Index";
 import SalesProgress from "../components/sales/Index";
 import ReceiveUpdate from "../components/receiveUpdate/Index";
 import ManageTeam from "../components/manageTeam/Index";
+import BottomBanner from "../components/banner2/Index";
 
 const Home = () => {
   return (
@@ -19,6 +20,7 @@ const Home = () => {
         <SalesProgress />
         <ReceiveUpdate />
         <ManageTeam />
+        <BottomBanner />
     </div>
   );
 };
