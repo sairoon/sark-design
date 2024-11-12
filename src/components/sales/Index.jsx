@@ -49,7 +49,7 @@ const SalesProgress = () => {
           alt="sales progress graph"
           className="scale-[1.20] -translate-y-2"
         />
-        <div className="absolute bottom-[7%] -right-20 px-16 py-1 translate-x-[-50%] cursor-pointer translate-y-[-50%] rounded-lg select-none">
+        <div className="absolute bottom-[10%] -right-20 px-16 py-1 translate-x-[-50%] cursor-pointer translate-y-[-50%] rounded-lg select-none">
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </div>
       </div>

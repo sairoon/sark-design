@@ -5,6 +5,7 @@ import PostCraft from "../components/Postcraft/Index";
 import Testimonial from "../components/testimonial/Index";
 import SalesProgress from "../components/sales/Index";
 import ReceiveUpdate from "../components/receiveUpdate/Index";
+import ManageTeam from "../components/manageTeam/Index";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
         <Testimonial />
         <SalesProgress />
         <ReceiveUpdate />
+        <ManageTeam />
     </div>
   );
 };
