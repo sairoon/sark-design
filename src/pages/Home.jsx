@@ -3,6 +3,8 @@ import Hero from "../components/hero/Index";
 import Banner from "../components/banner/Index";
 import PostCraft from "../components/Postcraft/Index";
 import Testimonial from "../components/testimonial/Index";
+import SalesProgress from "../components/sales/Index";
+import ReceiveUpdate from "../components/receiveUpdate/Index";
 
 const Home = () => {
   return (
@@ -13,6 +15,8 @@ const Home = () => {
       </div>
         <PostCraft />
         <Testimonial />
+        <SalesProgress />
+        <ReceiveUpdate />
     </div>
   );
 };
