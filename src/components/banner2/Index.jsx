@@ -14,7 +14,9 @@ const BottomBanner = () => {
       <div>
         <TrialButton />
       </div>
-      <p className="text-[#CBD5E1] text-sm font-primaryRegular mt-6 text-center w-[500px]">No credit card required</p>
+      <p className="text-[#CBD5E1] text-sm font-primaryRegular mt-6 text-center w-[500px]">
+        No credit card required
+      </p>
     </div>
   );
 };

@@ -18,7 +18,7 @@ const Hero = () => {
             that helps you achieve business goals together. Using software makes
             it easier to create.
           </p>
-          <button className="bg-[#2B59FF] text-white px-8 py-4 font-semibold text-base rounded-[5px] mt-8 flex items-center leading-7 tracking-normal">
+          <button className="bg-[#2B59FF] text-white px-8 py-4 font-semibold text-base rounded-[5px] mt-8 flex items-center leading-7 hover:bg-[#3048a1] transition ease-linear duration-150 tracking-normal">
             <span className="mr-2">Get 14 days free trial</span>
             <ButtonArrowIcon />
           </button>

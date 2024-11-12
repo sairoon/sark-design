@@ -26,7 +26,7 @@ const ManageTeam = () => {
             type="checkbox"
             id="checkbox1"
             className="accent-[#2B59FF] cursor-pointer"
-            checked
+            defaultChecked
           />
           <img
             src="https://picsum.photos/200"
@@ -35,7 +35,7 @@ const ManageTeam = () => {
           />
           <label
             htmlFor="checkbox1"
-            className="text-[#0F172A] font-primaryMedium text-sm cursor-pointer"
+            className="text-[#0F172A] font-primaryMedium text-sm cursor-pointer select-none"
           >
             Jane Doe
           </label>
@@ -73,7 +73,7 @@ const ManageTeam = () => {
           />
           <label
             htmlFor="checkbox3"
-            className="text-[#0F172A] font-primaryMedium text-sm cursor-pointer"
+            className="text-[#0F172A] font-primaryMedium text-sm cursor-pointer select-none"
           >
             Martin Merces
           </label>

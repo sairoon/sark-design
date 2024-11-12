@@ -7,6 +7,7 @@ import SalesProgress from "../components/sales/Index";
 import ReceiveUpdate from "../components/receiveUpdate/Index";
 import ManageTeam from "../components/manageTeam/Index";
 import BottomBanner from "../components/banner2/Index";
+import Footer from "../components/footer/Index";
 
 const Home = () => {
   return (
@@ -15,12 +16,13 @@ const Home = () => {
         <Hero />
         <Banner />
       </div>
-        <PostCraft />
-        <Testimonial />
-        <SalesProgress />
-        <ReceiveUpdate />
-        <ManageTeam />
-        <BottomBanner />
+      <PostCraft />
+      <Testimonial />
+      <SalesProgress />
+      <ReceiveUpdate />
+      <ManageTeam />
+      <BottomBanner />
+      <Footer />
     </div>
   );
 };

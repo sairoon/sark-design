@@ -28,7 +28,7 @@ const Testimonial = () => {
             OMG! I cannot believe that I have got a brand new landing page after
             getting @Omega…
           </p>
-          <div className="absolute top-5 right-4">
+          <div className="absolute top-5 right-4 text-[#0EA5E9] w-[21px] h-[17px]">
             <TwitterIcon />
           </div>
         </div>
@@ -52,7 +52,7 @@ const Testimonial = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
             mauris sagittis, sed tempus.
           </p>
-          <div className="absolute top-5 right-4">
+          <div className="absolute top-5 right-4 text-[#0EA5E9] w-[21px] h-[17px]">
             <TwitterIcon />
           </div>
         </div>
@@ -76,7 +76,7 @@ const Testimonial = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
             mauris sagittis, sed tempus.
           </p>
-          <div className="absolute top-5 right-4">
+          <div className="absolute top-5 right-4 text-[#0EA5E9] w-[21px] h-[17px]">
             <TwitterIcon />
           </div>
         </div>
@@ -100,7 +100,7 @@ const Testimonial = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
             mauris sagittis, sed tempus.
           </p>
-          <div className="absolute top-5 right-4">
+          <div className="absolute top-5 right-4 text-[#0EA5E9] w-[21px] h-[17px]">
             <TwitterIcon />
           </div>
         </div>
@@ -124,7 +124,7 @@ const Testimonial = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
             mauris sagittis, sed tempus.
           </p>
-          <div className="absolute top-5 right-4">
+          <div className="absolute top-5 right-4 text-[#0EA5E9] w-[21px] h-[17px]">
             <TwitterIcon />
           </div>
         </div>
@@ -148,7 +148,7 @@ const Testimonial = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
             mauris sagittis, sed tempus.
           </p>
-          <div className="absolute top-5 right-4">
+          <div className="absolute top-5 right-4 text-[#0EA5E9] w-[21px] h-[17px]">
             <TwitterIcon />
           </div>
         </div>
@@ -172,7 +172,7 @@ const Testimonial = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
             mauris sagittis, sed tempus.
           </p>
-          <div className="absolute top-5 right-4">
+          <div className="absolute top-5 right-4 text-[#0EA5E9] w-[21px] h-[17px]">
             <TwitterIcon />
           </div>
         </div>
@@ -196,13 +196,13 @@ const Testimonial = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor enim
             mauris sagittis, sed tempus.
           </p>
-          <div className="absolute top-5 right-4">
+          <div className="absolute top-5 right-4 text-[#0EA5E9] w-[21px] h-[17px]">
             <TwitterIcon />
           </div>
         </div>
       </div>
       <div className="flex flex-col items-center justify-center mt-20">
-        <button className="bg-[#2B59FF] text-white px-7 py-3 font-semibold text-base rounded-[5px] mt-8 flex items-center leading-7 tracking-normal">
+        <button className="bg-[#2B59FF] text-white px-7 py-3 font-semibold text-base rounded-[5px] hover:bg-[#3048a1] transition ease-linear duration-150 mt-8 flex items-center leading-7 tracking-normal">
           View all customer stories
         </button>
       </div>
