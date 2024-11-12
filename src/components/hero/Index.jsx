@@ -7,7 +7,7 @@ import { StarIcon } from "../../svg/star";
 const Hero = () => {
   return (
     <>
-    <Navbar />
+      <Navbar />
       <div className="w-full flex relative">
         <div className="w-1/2 mt-44 ps-36 pe-24">
           <h1 className="text-[54px] font-primaryBold font-bold text-[#0F172A] leading-[58px]">
@@ -23,15 +23,25 @@ const Hero = () => {
             <ButtonArrowIcon />
           </button>
           <div className="flex items-center mt-8">
-            <div className="">
+            <div>
               <TrustPilotIcon />
             </div>
             <div className="ml-4 flex flex-row gap-1">
-              <StarIcon />
-              <StarIcon />
-              <StarIcon />
-              <StarIcon />
-              <StarIcon />
+              <div>
+                <StarIcon />
+              </div>
+              <div>
+                <StarIcon />
+              </div>
+              <div>
+                <StarIcon />
+              </div>
+              <div>
+                <StarIcon />
+              </div>
+              <div>
+                <StarIcon />
+              </div>
             </div>
             <div className="text-[#576881] ml-2 font-primaryMedium text-base">
               4900+ 5 Stars
