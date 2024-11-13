@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../navbar/Index";
 import { ButtonArrowIcon } from "../../svg/ButtonArrow";
 import { TrustPilotIcon } from "../../svg/TrustPilot";
-import { StarIcon } from "../../svg/star";
+import { StarIcon } from "../../svg/Stars";
 
 const Hero = () => {
   return (
