@@ -84,7 +84,10 @@ const Footer = () => {
               <div className="text-sm font-primaryBold text-[#64748B] mb-2 uppercase">
                 Call us
               </div>
-              <a href="tel:+8801709771437" className="text-xl font-primaryBold text-[#0F172A]">
+              <a
+                href="tel:+8801709771437"
+                className="text-xl font-primaryBold text-[#0F172A]"
+              >
                 (+880) 170977-1437
               </a>
             </div>
@@ -92,7 +95,10 @@ const Footer = () => {
               <div className="text-sm font-primaryBold text-[#64748B] mb-2 uppercase">
                 email us
               </div>
-              <a href="mailto:info@sairoon.com" className="text-xl font-primaryBold text-[#0F172A]">
+              <a
+                href="mailto:info@sairoon.com"
+                className="text-xl font-primaryBold text-[#0F172A]"
+              >
                 info@sairoon.com
               </a>
             </div>
